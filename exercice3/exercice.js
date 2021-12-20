@@ -1,1 +1,1 @@
-$('div').slideDown(2000);
+$('div').slideDown(3000);
